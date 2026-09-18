@@ -7,7 +7,7 @@ Professor: Anderson Soares
 Esse projeto cria e configura umas estrutura de banco de dados para um sistema de campeonatos de futebol.
 
 # Modelo
-MER
+![MER](docs/MER%20-%20Campeonatos%20de%20Futebol.png)
 
 # Tabelas
 Liste as tabelas criadas.
@@ -19,4 +19,5 @@ Liste as tabelas criadas.
 - GitHub
 
 # Evidências
-Apresente ou indique as evidências da execução do banco.
+Criação do banco
+![Criacao banco](evidencias/criacao_banco.png)
