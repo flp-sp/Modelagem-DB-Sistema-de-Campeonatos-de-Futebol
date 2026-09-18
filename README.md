@@ -24,5 +24,18 @@ Esse projeto cria e configura umas estrutura de banco de dados para um sistema d
 - GitHub
 
 # Evidências
-Criação do banco  
+## Criação do banco  
 ![Criacao banco](evidencias/criacao_banco.png)
+
+## Criação das tabelas  
+![Criacao tabelas](evidencias/tabelas_criadas.png)
+
+## Tabelas antes da alteração
+![Criacao inscricao](evidencias/inscricao_criada.png)  
+![Criacao jogador](evidencias/jogador_criado.png)  
+![Criacao partida](evidencias/partida_criada.png)  
+
+## Tabelas após a alteração
+![Alter inscricao](evidencias/inscricao_alterada.png)  
+![Alter jogador](evidencias/jogadores_alterado.png)  
+![Alter partida](evidencias/partida_alterado.png)  
