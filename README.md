@@ -10,7 +10,12 @@ Esse projeto cria e configura umas estrutura de banco de dados para um sistema d
 ![MER](docs/MER%20-%20Campeonatos%20de%20Futebol.png)
 
 # Tabelas
-Liste as tabelas criadas.
+- Campeonatos
+- Times
+- Inscricao
+- Partidas
+- Estadios
+- Jogadores
 
 # Tecnologias utilizadas
 - PostgreSQL
@@ -19,5 +24,5 @@ Liste as tabelas criadas.
 - GitHub
 
 # Evidências
-Criação do banco
+Criação do banco  
 ![Criacao banco](evidencias/criacao_banco.png)
